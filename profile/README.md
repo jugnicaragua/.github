@@ -4,7 +4,7 @@
 
 </div>
 
-## Qué hacemos
+## Bienvenido! 👋
 
 Somos el JUG (Java User Group) Nicaragua, una comunidad de personas interesadas en Java, la JVM y el desarrollo de software.
 
